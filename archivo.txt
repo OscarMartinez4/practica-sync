@@ -1,3 +1,4 @@
 Hola mundo
 Cambio hecho desde GitHub
 Cambio local añadido
+Cambio simultaneo en local
